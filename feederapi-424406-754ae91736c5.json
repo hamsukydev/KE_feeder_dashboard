@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "feederapi-424406",
+  "private_key_id": "754ae91736c590c182684b4d37f04123141239e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDA2VtzIJYf8Rtb\nnz1jLkvX15FUcWxij9JpJJkWfuO1q9wlhabYpUBmXKkxGM799CXOvRxOCtqZzHCd\n8h5hmKmiCF+ZNVts4vgL6wdFb28oLlIAI/X65MNgB2icbDJEO1x3XSoTY78mGc3A\n5OMqnjUfTLJYE/9VXjKdWIVPcUftYM2JjWfXU3Q1X2tGJjQTiOmZWgGZajuIxvRU\nmuMc3b35GPIO8pdMHOisLonEhaFa5Zlz/aRSz1F73gzK3NEN9D47wHvCISMjpNqR\nTPUIHVED27FOsAxtn56RRfyst2UYhgFMYltee6AkTcwUvGUfj0iq/dnlS/uTJs2x\nhjYCzlm7AgMBAAECggEASOL9ss4Kn2jvl5ngSDeLt7jENz+lIL1N36pS59Mueg/J\n5S6V6ETQyb9UvPcs6IOZtID6DS8B/uXrXG7Rd76Mwm5av1uQwd8os8xxE5ex0eRr\n3py4z8odY5J5QcGM4Af1gzGlgO2OpbZT8wcvKoDgAAPrVem888Vl6N03iVZ9wmPN\nzogkLWaxaR9xLLJ409GrR901dwoKtXiDPHefhVY566enLThhS/wDyDe4iiQPOjGn\nl1YxS2OxQz802WqWLda7AvoiYI6JhLSUI5CzkHOZTGOjNaJ6t+/6t0lB4oO7QFHW\nEcm46M+hDWgjrJ5mlHeOpb5kXgu8qA2/vy6VAsvOQQKBgQD++YRACkX4jv4lzp3R\n221ydrvlXeX2XcsU6x2/obb+NAZob0AkFLK84eyeH2LYlQwTCsrVvCxUZU2e+vVB\n/aTixtgySCx+6ECVzCBHPoFLJZfumwx/cL7A7Yz/LoSiXA1mEJ/o48KZjTakd2Rc\n5iROQRrHn8G0NVWiLO3Jt9yDwQKBgQDBn+KuINpAvu7XUoFLHJL4qCEHeLOXycCZ\nAMs00vfAeqBleOco7YOhGTAmxlJMBfSgW5bQqOjb2bh7fVd6jdk59of1XFNCphpB\nCaXBZa0ESCkmvUZKsBHSjVzMMiuxmt1xnKeyiYRvn0oeAq497YZAd+FtSj8uMnDa\nMLSi6S4MewKBgGcnZ1vJTDmdEDEXgD3wujy+0JGhBXJAy/JwlJ58vF3nilgh+h8e\nyJkmBeaK6CCbXEEv8pO6B201dsvE2AiUp2qf68Ob83R8XfS8mqp4HTLbyLXdwJam\ndGX1NT/gAAT3nOwX+bnsu0QIH302WEJFUZbfPAhbF7DiivyLlMAxRGOBAoGBAIAV\nXSVlFBuKcoK70E24rDyTM642mU8Kpj5QeRwLhtqsA9i8PuYjIFT8TY8I2D30HpvJ\nmp2Tbt6oStJd2vV2SkF+pPeZSHapXGqzkBO8R9SyS46V3J7hlBidbMqjUaYeVOio\nAYMoVxRj4eqySUMsEggphVT/rYXI1kBvwb6W0+BrAoGBAOutQ9kZDUN13OOrBMAL\n8b6vTHk5fD3yXIGn2JVrhUO4Rbya8F4/Ug6JuhvV5JhPBAiughaFxVlYnu2BZmxe\nZF/eFiFN4wl40i90sMsAKQaGAbiGTP991+8P9SCtoPKPIxVy5gVPan5Wre1RXe3w\nC/LA7c/6lqbfBubZrUtQadEz\n-----END PRIVATE KEY-----\n",
+  "client_email": "kaedcodb-gmail-com@feederapi-424406.iam.gserviceaccount.com",
+  "client_id": "115571861469069506364",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kaedcodb-gmail-com%40feederapi-424406.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
