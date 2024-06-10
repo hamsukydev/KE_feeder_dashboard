@@ -17,7 +17,7 @@ creds = ServiceAccountCredentials.from_json_keyfile_name('feederapi-424406-754ae
 client = gspread.authorize(creds)
 
 # Open the Google Sheet
-sheet_url = 'https://docs.google.com/spreadsheets/d/14S8FXJGAp7PkCvtK3Y-PdSzrUkc4QOus2oGRQyBXqjk/edit#gid=541324402'
+sheet_url = 'https://docs.google.com/spreadsheets/d/1-mh0k8lcpVQ55PTodbSLoJ3ZR9x2AbqCQAjSCDhNmQw/edit?usp=drivesdk'
 sheet = client.open_by_url(sheet_url)
 
 # List all sheet names
